@@ -1,7 +1,9 @@
 # Welcome to My GitHub Portfolio!
 ##I'm Mitchell Brown
 <img src="BioPic.jpg">
+<p>
 <img src="Logo Image.png">
+</p>
 
 I'm found of Harvester Consulting which focuses data-driven decision support solutions with a passion for meet a business's competitive needs.  
 
